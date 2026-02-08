@@ -1,0 +1,15 @@
+--------- beginning of main
+02-04 16:37:40.342 14045 14123 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 16:37:40.342 14045 14123 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 16:37:40.353 14045 14123 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 16:37:40.354 14045 14123 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 16:37:40.367 14045 14123 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 16:37:40.367 14045 14123 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 16:37:41.016 14045 18656 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+02-04 16:37:41.018 14045 18656 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+02-04 16:37:41.020 14045 18656 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+02-04 16:37:41.142 14045 24815 I NetworkScheduler: (REDACTED) Error inserting %s
+02-04 16:37:55.041 12825 12874 I PlayCommon: [7208] Preparing logs for uploading
+02-04 16:37:55.047 12825 12874 I PlayCommon: [7208] Connecting to server: *************************************************************
+02-04 16:37:55.885 12825 12874 I PlayCommon: [7208] Successfully uploaded logs.
+02-04 16:38:07.718 16600 16619 I IPCThreadState: oneway function results for code 2 on binder at 0xb400007850053bc0 will be dropped but finished with status UNKNOWN_TRANSACTION

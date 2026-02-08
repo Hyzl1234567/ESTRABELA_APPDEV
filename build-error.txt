@@ -1,0 +1,633 @@
+> Task :gradle-plugin:settings-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:generateAutolinkingNewArchitectureFiles UP-TO-DATE
+> Task :app:generateAutolinkingPackageList UP-TO-DATE
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :app:generateReactNativeEntryPoint UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:preDebugBuild UP-TO-DATE
+> Task :react-native-safe-area-context:writeDebugAarMetadata UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugResources UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugManifest UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-safe-area-context:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugRFile UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-safe-area-context:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugKotlin UP-TO-DATE
+> Task :react-native-safe-area-context:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:mergeDebugShaders UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugShaders NO-SOURCE
+> Task :react-native-safe-area-context:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:mergeDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:dexBuilderDebug UP-TO-DATE
+> Task :app:mergeDebugGlobalSynthetics UP-TO-DATE
+> Task :app:processDebugJavaRes UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugJavaRes UP-TO-DATE
+> Task :app:mergeDebugJavaResource UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :app:mergeProjectDexDebug UP-TO-DATE
+> Task :app:configureCMakeDebug[arm64-v8a]
+> Task :app:mergeLibDexDebug UP-TO-DATE
+
+> Task :app:buildCMakeDebug[arm64-v8a]
+C/C++: ninja: Entering directory `C:\Users\User\ESTRABELA_APPDEV\android\app\.cxx\Debug\1q214u1w\arm64-v8a'
+C/C++: C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRN_SERIALIZABLE_STATE -Dappmodules_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -IC:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -fexceptions -frtti -std=c++20 -DFOLLY_NO_CONFIG=1 -DLOG_TAG=\"ReactNative\" -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles\appmodules.dir\C_\Users\User\ESTRABELA_APPDEV\android\app\build\generated\autolinking\src\main\jni\autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+C/C++: In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no member named 'format' in namespace 'std'; did you mean 'folly::format'?
+C/C++:       return std::format("{}%", dimension.value);
+C/C++:              ^~~~~
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/Format.h:291:1: note: 'folly::format' declared here
+C/C++: format(StringPiece fmt, Args&&... args) {
+C/C++: ^
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+C/C++: In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+C/C++: In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no viable conversion from returned value of type 'Formatter<false, const float &>' to function return type 'folly::dynamic'
+C/C++:       return std::format("{}%", dimension.value);
+C/C++:              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:238:18: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const ObjectMaker &' for 1st argument
+C/C++:   /* implicit */ dynamic(ObjectMaker const&) = delete;
+C/C++:                  ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:289:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const dynamic &' for 1st argument
+C/C++:   dynamic(dynamic const&);
+C/C++:   ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:290:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'dynamic &&' for 1st argument
+C/C++:   dynamic(dynamic&&) noexcept;
+C/C++:   ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:321:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::nullptr_t' for 1st argument
+C/C++: inline dynamic::dynamic(std::nullptr_t) : type_(NULLT) {}
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:323:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'void (*)(EmptyArrayTag)' for 1st argument
+C/C++: inline dynamic::dynamic(void (*)(EmptyArrayTag)) : type_(ARRAY) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:327:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker (*)()' for 1st argument
+C/C++: inline dynamic::dynamic(ObjectMaker (*)()) : type_(OBJECT) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:331:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const char *' for 1st argument
+C/C++: inline dynamic::dynamic(char const* s) : type_(STRING) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:335:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::string' (aka 'basic_string<char>') for 1st argument
+C/C++: inline dynamic::dynamic(std::string s) : type_(STRING) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:344:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker &&' for 1st argument
+C/C++: inline dynamic::dynamic(ObjectMaker&& maker) : type_(OBJECT) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:376:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::vector<bool>::reference' (aka '__bit_reference<vector<bool, allocator<bool>>>') for 1st argument
+C/C++: inline dynamic::dynamic(std::vector<bool>::reference b)
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:378:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'VectorBoolConstRefCtorType' (aka 'std::__bit_const_reference<std::vector<bool>>') for 1st argument
+C/C++: inline dynamic::dynamic(VectorBoolConstRefCtorType b)
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:340:17: note: candidate template ignored: requirement 'is_detected_v<folly::dynamic_detail::detect_construct_string, folly::Formatter<false, const float &>>' was not satisfied [with Stringish = Formatter<false, const float &>]
+C/C++: inline dynamic::dynamic(Stringish&& s) : type_(STRING) {
+C/C++:                 ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:384:10: note: candidate template ignored: substitution failure [with T = Formatter<false, const float &>]: implicit instantiation of undefined template 'folly::dynamic::NumericTypeHelper<folly::Formatter<false, const float &>>'
+C/C++: dynamic::dynamic(T t) {
+C/C++:          ^
+C/C++: C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:1115:12: note: explicit constructor is not a candidate
+C/C++:   explicit dynamic(Array&& r);
+C/C++:            ^
+C/C++: 2 errors generated.
+C/C++: C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dreact_codegen_safeareacontext_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -MF safeareacontext_autolinked_build\CMakeFiles\react_codegen_safeareacontext.dir\ad8fbac701306bd3ed2b44935da5264a\components\safeareacontext\RNCSafeAreaViewShadowNode.cpp.o.d -o safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp
+C/C++: C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:19:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+C/C++:   if (edge.unit() != Unit::Undefined) {
+C/C++:       ~~~~ ^
+C/C++: C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:22:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+C/C++:   if (axis.unit() != Unit::Undefined) {
+C/C++:       ~~~~ ^
+C/C++: 2 errors generated.
+
+> Task :app:buildCMakeDebug[arm64-v8a] FAILED
+
+[Incubating] Problems report is available at: file:///C:/Users/User/ESTRABELA_APPDEV/android/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:buildCMakeDebug[arm64-v8a]'.
+> com.android.ide.common.process.ProcessException: ninja: Entering directory `C:\Users\User\ESTRABELA_APPDEV\android\app\.cxx\Debug\1q214u1w\arm64-v8a'
+  [0/2] Re-checking globbed directories...
+  [1/4] Building CXX object CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+  FAILED: CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o 
+  C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRN_SERIALIZABLE_STATE -Dappmodules_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -IC:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -fexceptions -frtti -std=c++20 -DFOLLY_NO_CONFIG=1 -DLOG_TAG=\"ReactNative\" -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles\appmodules.dir\C_\Users\User\ESTRABELA_APPDEV\android\app\build\generated\autolinking\src\main\jni\autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+  In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+  In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no member named 'format' in namespace 'std'; did you mean 'folly::format'?
+        return std::format("{}%", dimension.value);
+               ^~~~~
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/Format.h:291:1: note: 'folly::format' declared here
+  format(StringPiece fmt, Args&&... args) {
+  ^
+  In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+  In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+  In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no viable conversion from returned value of type 'Formatter<false, const float &>' to function return type 'folly::dynamic'
+        return std::format("{}%", dimension.value);
+               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:238:18: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const ObjectMaker &' for 1st argument
+    /* implicit */ dynamic(ObjectMaker const&) = delete;
+                   ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:289:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const dynamic &' for 1st argument
+    dynamic(dynamic const&);
+    ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:290:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'dynamic &&' for 1st argument
+    dynamic(dynamic&&) noexcept;
+    ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:321:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::nullptr_t' for 1st argument
+  inline dynamic::dynamic(std::nullptr_t) : type_(NULLT) {}
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:323:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'void (*)(EmptyArrayTag)' for 1st argument
+  inline dynamic::dynamic(void (*)(EmptyArrayTag)) : type_(ARRAY) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:327:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker (*)()' for 1st argument
+  inline dynamic::dynamic(ObjectMaker (*)()) : type_(OBJECT) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:331:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const char *' for 1st argument
+  inline dynamic::dynamic(char const* s) : type_(STRING) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:335:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::string' (aka 'basic_string<char>') for 1st argument
+  inline dynamic::dynamic(std::string s) : type_(STRING) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:344:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker &&' for 1st argument
+  inline dynamic::dynamic(ObjectMaker&& maker) : type_(OBJECT) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:376:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::vector<bool>::reference' (aka '__bit_reference<vector<bool, allocator<bool>>>') for 1st argument
+  inline dynamic::dynamic(std::vector<bool>::reference b)
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:378:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'VectorBoolConstRefCtorType' (aka 'std::__bit_const_reference<std::vector<bool>>') for 1st argument
+  inline dynamic::dynamic(VectorBoolConstRefCtorType b)
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:340:17: note: candidate template ignored: requirement 'is_detected_v<folly::dynamic_detail::detect_construct_string, folly::Formatter<false, const float &>>' was not satisfied [with Stringish = Formatter<false, const float &>]
+  inline dynamic::dynamic(Stringish&& s) : type_(STRING) {
+                  ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:384:10: note: candidate template ignored: substitution failure [with T = Formatter<false, const float &>]: implicit instantiation of undefined template 'folly::dynamic::NumericTypeHelper<folly::Formatter<false, const float &>>'
+  dynamic::dynamic(T t) {
+           ^
+  C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:1115:12: note: explicit constructor is not a candidate
+    explicit dynamic(Array&& r);
+             ^
+  2 errors generated.
+  [2/4] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+  FAILED: safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o 
+  C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dreact_codegen_safeareacontext_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -MF safeareacontext_autolinked_build\CMakeFiles\react_codegen_safeareacontext.dir\ad8fbac701306bd3ed2b44935da5264a\components\safeareacontext\RNCSafeAreaViewShadowNode.cpp.o.d -o safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp
+  C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:19:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+    if (edge.unit() != Unit::Undefined) {
+        ~~~~ ^
+  C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:22:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+    if (axis.unit() != Unit::Undefined) {
+        ~~~~ ^
+  2 errors generated.
+  ninja: build stopped: subcommand failed.
+  
+  C++ build system [build] failed while executing:
+      @echo off
+      "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+        -C ^
+        "C:\\Users\\User\\ESTRABELA_APPDEV\\android\\app\\.cxx\\Debug\\1q214u1w\\arm64-v8a" ^
+        appmodules ^
+        react_codegen_safeareacontext
+    from C:\Users\User\ESTRABELA_APPDEV\android\app
+
+* Try:
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+* Exception is:
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:buildCMakeDebug[arm64-v8a]'.
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
+	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:293)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:40)
+	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+Caused by: org.gradle.internal.UncheckedException: com.android.ide.common.process.ProcessException: ninja: Entering directory `C:\Users\User\ESTRABELA_APPDEV\android\app\.cxx\Debug\1q214u1w\arm64-v8a'
+[0/2] Re-checking globbed directories...
+[1/4] Building CXX object CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+FAILED: CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o 
+C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRN_SERIALIZABLE_STATE -Dappmodules_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -IC:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -fexceptions -frtti -std=c++20 -DFOLLY_NO_CONFIG=1 -DLOG_TAG=\"ReactNative\" -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles\appmodules.dir\C_\Users\User\ESTRABELA_APPDEV\android\app\build\generated\autolinking\src\main\jni\autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no member named 'format' in namespace 'std'; did you mean 'folly::format'?
+      return std::format("{}%", dimension.value);
+             ^~~~~
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/Format.h:291:1: note: 'folly::format' declared here
+format(StringPiece fmt, Args&&... args) {
+^
+In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no viable conversion from returned value of type 'Formatter<false, const float &>' to function return type 'folly::dynamic'
+      return std::format("{}%", dimension.value);
+             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:238:18: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const ObjectMaker &' for 1st argument
+  /* implicit */ dynamic(ObjectMaker const&) = delete;
+                 ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:289:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const dynamic &' for 1st argument
+  dynamic(dynamic const&);
+  ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:290:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'dynamic &&' for 1st argument
+  dynamic(dynamic&&) noexcept;
+  ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:321:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::nullptr_t' for 1st argument
+inline dynamic::dynamic(std::nullptr_t) : type_(NULLT) {}
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:323:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'void (*)(EmptyArrayTag)' for 1st argument
+inline dynamic::dynamic(void (*)(EmptyArrayTag)) : type_(ARRAY) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:327:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker (*)()' for 1st argument
+inline dynamic::dynamic(ObjectMaker (*)()) : type_(OBJECT) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:331:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const char *' for 1st argument
+inline dynamic::dynamic(char const* s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:335:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::string' (aka 'basic_string<char>') for 1st argument
+inline dynamic::dynamic(std::string s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:344:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker &&' for 1st argument
+inline dynamic::dynamic(ObjectMaker&& maker) : type_(OBJECT) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:376:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::vector<bool>::reference' (aka '__bit_reference<vector<bool, allocator<bool>>>') for 1st argument
+inline dynamic::dynamic(std::vector<bool>::reference b)
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:378:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'VectorBoolConstRefCtorType' (aka 'std::__bit_const_reference<std::vector<bool>>') for 1st argument
+inline dynamic::dynamic(VectorBoolConstRefCtorType b)
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:340:17: note: candidate template ignored: requirement 'is_detected_v<folly::dynamic_detail::detect_construct_string, folly::Formatter<false, const float &>>' was not satisfied [with Stringish = Formatter<false, const float &>]
+inline dynamic::dynamic(Stringish&& s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:384:10: note: candidate template ignored: substitution failure [with T = Formatter<false, const float &>]: implicit instantiation of undefined template 'folly::dynamic::NumericTypeHelper<folly::Formatter<false, const float &>>'
+dynamic::dynamic(T t) {
+         ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:1115:12: note: explicit constructor is not a candidate
+  explicit dynamic(Array&& r);
+           ^
+2 errors generated.
+[2/4] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+FAILED: safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o 
+C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dreact_codegen_safeareacontext_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -MF safeareacontext_autolinked_build\CMakeFiles\react_codegen_safeareacontext.dir\ad8fbac701306bd3ed2b44935da5264a\components\safeareacontext\RNCSafeAreaViewShadowNode.cpp.o.d -o safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp
+C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:19:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+  if (edge.unit() != Unit::Undefined) {
+      ~~~~ ^
+C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:22:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+  if (axis.unit() != Unit::Undefined) {
+      ~~~~ ^
+2 errors generated.
+ninja: build stopped: subcommand failed.
+
+C++ build system [build] failed while executing:
+    @echo off
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+      -C ^
+      "C:\\Users\\User\\ESTRABELA_APPDEV\\android\\app\\.cxx\\Debug\\1q214u1w\\arm64-v8a" ^
+      appmodules ^
+      react_codegen_safeareacontext
+  from C:\Users\User\ESTRABELA_APPDEV\android\app
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:69)
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:42)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:128)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:48)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
+	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
+	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+	at org.gradle.internal.Either$Right.fold(Either.java:175)
+	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
+	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
+	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
+	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
+	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:61)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:40)
+	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+Caused by: com.android.ide.common.process.ProcessException: ninja: Entering directory `C:\Users\User\ESTRABELA_APPDEV\android\app\.cxx\Debug\1q214u1w\arm64-v8a'
+[0/2] Re-checking globbed directories...
+[1/4] Building CXX object CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+FAILED: CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o 
+C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DRN_SERIALIZABLE_STATE -Dappmodules_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup -IC:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -Wall -Werror -fexceptions -frtti -std=c++20 -DFOLLY_NO_CONFIG=1 -DLOG_TAG=\"ReactNative\" -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -MF CMakeFiles\appmodules.dir\C_\Users\User\ESTRABELA_APPDEV\android\app\build\generated\autolinking\src\main\jni\autolinking.cpp.o.d -o CMakeFiles/appmodules.dir/C_/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp
+In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no member named 'format' in namespace 'std'; did you mean 'folly::format'?
+      return std::format("{}%", dimension.value);
+             ^~~~~
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/Format.h:291:1: note: 'folly::format' declared here
+format(StringPiece fmt, Args&&... args) {
+^
+In file included from C:/Users/User/ESTRABELA_APPDEV/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp:10:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/safeareacontext.h:6:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewComponentDescriptor.h:3:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.h:5:
+In file included from C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.h:14:
+In file included from C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/propsConversions.h:15:
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/react/renderer/core/graphicsConversions.h:71:14: error: no viable conversion from returned value of type 'Formatter<false, const float &>' to function return type 'folly::dynamic'
+      return std::format("{}%", dimension.value);
+             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:238:18: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const ObjectMaker &' for 1st argument
+  /* implicit */ dynamic(ObjectMaker const&) = delete;
+                 ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:289:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const dynamic &' for 1st argument
+  dynamic(dynamic const&);
+  ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:290:3: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'dynamic &&' for 1st argument
+  dynamic(dynamic&&) noexcept;
+  ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:321:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::nullptr_t' for 1st argument
+inline dynamic::dynamic(std::nullptr_t) : type_(NULLT) {}
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:323:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'void (*)(EmptyArrayTag)' for 1st argument
+inline dynamic::dynamic(void (*)(EmptyArrayTag)) : type_(ARRAY) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:327:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker (*)()' for 1st argument
+inline dynamic::dynamic(ObjectMaker (*)()) : type_(OBJECT) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:331:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'const char *' for 1st argument
+inline dynamic::dynamic(char const* s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:335:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::string' (aka 'basic_string<char>') for 1st argument
+inline dynamic::dynamic(std::string s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:344:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'ObjectMaker &&' for 1st argument
+inline dynamic::dynamic(ObjectMaker&& maker) : type_(OBJECT) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:376:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'std::vector<bool>::reference' (aka '__bit_reference<vector<bool, allocator<bool>>>') for 1st argument
+inline dynamic::dynamic(std::vector<bool>::reference b)
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:378:17: note: candidate constructor not viable: no known conversion from 'Formatter<false, const float &>' to 'VectorBoolConstRefCtorType' (aka 'std::__bit_const_reference<std::vector<bool>>') for 1st argument
+inline dynamic::dynamic(VectorBoolConstRefCtorType b)
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:340:17: note: candidate template ignored: requirement 'is_detected_v<folly::dynamic_detail::detect_construct_string, folly::Formatter<false, const float &>>' was not satisfied [with Stringish = Formatter<false, const float &>]
+inline dynamic::dynamic(Stringish&& s) : type_(STRING) {
+                ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic-inl.h:384:10: note: candidate template ignored: substitution failure [with T = Formatter<false, const float &>]: implicit instantiation of undefined template 'folly::dynamic::NumericTypeHelper<folly::Formatter<false, const float &>>'
+dynamic::dynamic(T t) {
+         ^
+C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include/folly/json/dynamic.h:1115:12: note: explicit constructor is not a candidate
+  explicit dynamic(Array&& r);
+           ^
+2 errors generated.
+[2/4] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+FAILED: safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o 
+C:\Users\User\AppData\Local\Android\Sdk\ndk\26.1.10909125\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dreact_codegen_safeareacontext_EXPORTS -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/. -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../../common/cpp -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni -IC:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/safeareacontext -isystem C:/Users/User/.gradle/caches/8.13/transforms/5a4fa8ef8d2ea5d84d321a2c8a409ee0/transformed/fbjni-0.7.0/prefab/modules/fbjni/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/jsi/include -isystem C:/Users/User/.gradle/caches/8.13/transforms/a5eb6650aace0b6e4adedd8cab5789b7/transformed/react-android-0.83.1-debug/prefab/modules/reactnative/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fexceptions -frtti -std=c++20 -Wall -Wpedantic -Wno-gnu-zero-variadic-macro-arguments -DLOG_TAG=\"ReactNative\" -DFOLLY_NO_CONFIG=1 -DFOLLY_HAVE_CLOCK_GETTIME=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -DFOLLY_MOBILE=1 -DFOLLY_HAVE_RECVMMSG=1 -DFOLLY_HAVE_PTHREAD=1 -DFOLLY_HAVE_XSI_STRERROR_R=1 -MD -MT safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -MF safeareacontext_autolinked_build\CMakeFiles\react_codegen_safeareacontext.dir\ad8fbac701306bd3ed2b44935da5264a\components\safeareacontext\RNCSafeAreaViewShadowNode.cpp.o.d -o safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/ad8fbac701306bd3ed2b44935da5264a/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o -c C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp
+C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:19:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+  if (edge.unit() != Unit::Undefined) {
+      ~~~~ ^
+C:/Users/User/ESTRABELA_APPDEV/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp:22:12: error: no member named 'unit' in 'facebook::yoga::StyleLength'
+  if (axis.unit() != Unit::Undefined) {
+      ~~~~ ^
+2 errors generated.
+ninja: build stopped: subcommand failed.
+
+C++ build system [build] failed while executing:
+    @echo off
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+      -C ^
+      "C:\\Users\\User\\ESTRABELA_APPDEV\\android\\app\\.cxx\\Debug\\1q214u1w\\arm64-v8a" ^
+      appmodules ^
+      react_codegen_safeareacontext
+  from C:\Users\User\ESTRABELA_APPDEV\android\app
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:288)
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:108)
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:106)
+	at com.android.build.gradle.internal.cxx.timing.TimingEnvironmentKt.time(TimingEnvironment.kt:32)
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess(ExecuteProcess.kt:106)
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess$default(ExecuteProcess.kt:85)
+	at com.android.build.gradle.internal.cxx.build.CxxRegularBuilder.executeProcessBatch(CxxRegularBuilder.kt:332)
+	at com.android.build.gradle.internal.cxx.build.CxxRegularBuilder.build(CxxRegularBuilder.kt:129)
+	at com.android.build.gradle.tasks.ExternalNativeBuildTask.doTaskAction(ExternalNativeBuildTask.kt:72)
+	at com.android.build.gradle.internal.tasks.UnsafeOutputsTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:59)
+	at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
+	at com.android.build.gradle.internal.tasks.UnsafeOutputsTask.taskAction(UnsafeOutputsTask.kt:81)
+	at jdk.internal.reflect.GeneratedMethodAccessor1058.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+	... 117 more
+Caused by: com.android.ide.common.process.ProcessException: Error while executing process C:\Users\User\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe with arguments {-C C:\Users\User\ESTRABELA_APPDEV\android\app\.cxx\Debug\1q214u1w\arm64-v8a appmodules react_codegen_safeareacontext}
+	at com.android.build.gradle.internal.process.GradleProcessResult.buildProcessException(GradleProcessResult.java:73)
+	at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:48)
+	at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:277)
+	... 131 more
+Caused by: org.gradle.process.internal.ExecException: Process 'command 'C:\Users\User\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe'' finished with non-zero exit value 1
+	at org.gradle.process.internal.DefaultExecHandle$ExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:442)
+	at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:46)
+	... 132 more
+
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 26s
+65 actionable tasks: 2 executed, 63 up-to-date

@@ -1,0 +1,427 @@
+--------- beginning of main
+02-04 18:14:34.862 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:34.863 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:34.868 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:34.869 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:34.873 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:34.873 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:34.882 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=60000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -75, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -75 UnderlyingNetworks: Null]
+02-04 18:14:38.776 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=60000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -74, Link speed: 433Mbps, Tx Link speed: 234Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -74 UnderlyingNetworks: Null]
+02-04 18:14:38.782 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:38.782 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:38.791 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:38.791 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:38.797 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:38.797 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:45.340 20361 20974 I IPCThreadState: oneway function results for code 2 on binder at 0xb4000078501e74e0 will be dropped but finished with status UNKNOWN_TRANSACTION
+02-04 18:14:47.019 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=30000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -76, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -76 UnderlyingNetworks: Null]
+02-04 18:14:47.023 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:47.023 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:47.029 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:47.029 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:47.040 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:47.041 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:47.159 14045 14045 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.sampler.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+--------- beginning of system
+02-04 18:14:47.162 15504 15656 W Looper  : Slow delivery took 854353ms android.bg h=android.os.Handler c=android.os.BinderProxy$1@8b7041c m=0
+02-04 18:14:47.166 15504 15656 W Looper  : Drained
+02-04 18:14:47.177 14045 14045 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+02-04 18:14:47.542 15504 15504 W azzh    : Failed to find local clusters.
+02-04 18:14:47.543 15504 15504 W azzh    : Failed to find local clusters.
+02-04 18:14:47.543 15504 15504 W azzh    : Failed to find local clusters.
+02-04 18:14:47.544 15504 15504 W azzh    : Failed to find local clusters.
+02-04 18:14:47.544 15504 15504 W azzh    : Failed to find local clusters.
+02-04 18:14:47.724 14045 14078 E AuthPII : [RequestTokenManager] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gm, Service: oauth2:************************ ************************************************* ***************************************** ********************************************** *************************************************** ***************************************** ************************************************* ********************************************************** ************************************************* ************************************ *********************************************************** ************************************* ********************************************* **************************************** 
+02-04 18:14:47.724 14045 14078 E AuthPII : bcxx: Long live credential not available.
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeup.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):1401)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeuw.b(:com.google.android.gms@255034035@25.50.34 (260400-855735097):26)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeuu.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):744)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeut.b(:com.google.android.gms@255034035@25.50.34 (260400-855735097):142)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at yfy.d(:com.google.android.gms@255034035@25.50.34 (260400-855735097):88)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at yfy.dispatchTransaction(:com.google.android.gms@255034035@25.50.34 (260400-855735097):153)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at buxv.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):72)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at xoc.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):23)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at cgvg.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):10)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at buyj.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):161)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1561)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1505)
+02-04 18:14:47.724 14045 14078 E AuthPII : Message is Long live credential not available.
+02-04 18:14:47.724 14045 14078 E AuthPII : bcxx: Long live credential not available.
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeup.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):1401)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeuw.b(:com.google.android.gms@255034035@25.50.34 (260400-855735097):26)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeuu.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):744)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at aeut.b(:com.google.android.gms@255034035@25.50.34 (260400-855735097):142)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at yfy.d(:com.google.android.gms@255034035@25.50.34 (260400-855735097):88)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at yfy.dispatchTransaction(:com.google.android.gms@255034035@25.50.34 (260400-855735097):153)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at buxv.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):72)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at xoc.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):23)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at cgvg.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):10)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at buyj.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):161)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.execTransactInternal(Binder.java:1561)
+02-04 18:14:47.724 14045 14078 E AuthPII : 	at android.os.Binder.execTransact(Binder.java:1505)
+02-04 18:14:47.742 14045 14078 I Auth    : (REDACTED) [GetToken] GetToken failed for app=%s with userRecoverable status: %s 
+02-04 18:14:47.743 14045 14078 W Auth    : [ChimeraGetToken] exception while trying to fetch auth tokens for app=com.google.android.gm, scope=oauth2:************************ ************************************************* ***************************************** ********************************************** *************************************************** ***************************************** ************************************************* ********************************************************** ************************************************* ************************************ *********************************************************** ************************************* ********************************************* ****************************************  [CONTEXT service_id=153 ]
+02-04 18:14:47.743 14045 14078 W Auth    : aeuo: GetToken failed with status code and recovery intent: BadAuthentication
+02-04 18:14:47.743 14045 14078 W Auth    : 	at aeut.b(:com.google.android.gms@255034035@25.50.34 (260400-855735097):339)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at yfy.d(:com.google.android.gms@255034035@25.50.34 (260400-855735097):88)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at yfy.dispatchTransaction(:com.google.android.gms@255034035@25.50.34 (260400-855735097):153)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at buxv.a(:com.google.android.gms@255034035@25.50.34 (260400-855735097):72)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at xoc.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):23)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at cgvg.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):10)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at android.os.Binder.transact(Binder.java:1406)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at buyj.onTransact(:com.google.android.gms@255034035@25.50.34 (260400-855735097):161)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at android.os.Binder.execTransactInternal(Binder.java:1561)
+02-04 18:14:47.743 14045 14078 W Auth    : 	at android.os.Binder.execTransact(Binder.java:1505)
+02-04 18:14:47.746 15504 32016 W Auth    : [GoogleAuthUtil] [GoogleAuthUtil] error status:BAD_AUTHENTICATION with method:getTokenWithDetails
+02-04 18:14:47.756 15504 32016 W bogx    : Authentication failed while trying to obtain OAuth token.
+02-04 18:14:47.765 15504 31985 W boiz    : Job(AdsStartupJob#3.20) Enqueued job 'AdsStartupJob' failed
+02-04 18:14:47.765 15504 31985 W boiz    : awxc: [/mail/adsfe/main] 3: Not connected to internet: bofh: NO_NETWORK: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bejp.w(PG:131)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at awxo.b(PG:57)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at auue.a(PG:290)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bpbt.a(PG:5)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at teh.a(PG:16)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsgh.run(PG:19)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsfs.execute(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bpct.execute(PG:18)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.e(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.j(PG:93)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.setException(PG:17)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at com.google.common.util.concurrent.SettableFuture.setException(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bohy.a(PG:31)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at teh.a(PG:16)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsgh.run(PG:19)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bbzm.run(PG:495)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:520)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at java.lang.Thread.run(Thread.java:1563)
+02-04 18:14:47.765 15504 31985 W boiz    : Caused by: bofh: NO_NETWORK: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+02-04 18:14:47.765 15504 31985 W boiz    : 	at apws.a(PG:43)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsef.c(PG:3)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bseh.run(PG:130)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsfs.execute(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.e(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.j(PG:93)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bsei.setFuture(PG:27)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bpaz.run(PG:20)
+02-04 18:14:47.765 15504 31985 W boiz    : 	... 7 more
+02-04 18:14:47.765 15504 31985 W boiz    : Caused by: java.util.concurrent.ExecutionException: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+02-04 18:14:47.765 15504 31985 W boiz    : 	at yik.bx(PG:32)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at yik.aL(PG:13)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bjxp.a(PG:182)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bpcy.I(PG:1)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bpaz.run(PG:16)
+02-04 18:14:47.765 15504 31985 W boiz    : 	... 7 more
+02-04 18:14:47.765 15504 31985 W boiz    : Caused by: com.google.android.gms.auth.UserRecoverableAuthException: BadAuthentication
+02-04 18:14:47.765 15504 31985 W boiz    : 	at ycb.j(PG:214)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at ybw.a(PG:315)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at ycb.l(PG:49)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at ycb.m(PG:69)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at yhq.b(PG:34)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at ycd.d(PG:11)
+02-04 18:14:47.765 15504 31985 W boiz    : 	at bjxp.a(PG:178)
+02-04 18:14:47.765 15504 31985 W boiz    : 	... 9 more
+02-04 18:14:47.973 15504 15544 W oaa     : [Gmail] EmailConversationCursor: mailbox#5 sync didn't succeed: 19
+02-04 18:14:48.575 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:48.575 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:48.575 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:48.576 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:48.576 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:48.576 15504 15520 W System  : A resource failed to call close. 
+02-04 18:14:49.387 25485 25506 I native  : I0000 00:00:1770200089.386941   25506 soda_async_impl.cc:1411] Current audio timestamp: 1770200089324667
+02-04 18:14:49.505 25485 25512 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:14:50.056 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:50.056 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:50.057 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=60000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -75, Link speed: 433Mbps, Tx Link speed: 234Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -75 UnderlyingNetworks: Null]
+02-04 18:14:50.063 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:50.063 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:50.068 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:14:50.068 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:14:57.597 14045 14045 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.libs.gmscorelogger.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+02-04 18:15:05.233 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:05.233 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:05.248 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:05.248 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:05.260 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:05.260 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:05.370 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=30000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -76, Link speed: 433Mbps, Tx Link speed: 234Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 175Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -76 UnderlyingNetworks: Null]
+02-04 18:15:08.803 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:08.803 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:08.837 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:08.837 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:08.842 14045 14615 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:08.842 14045 14615 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:08.842 15479 26254 W m.facebook.orca: Suspending all threads took: 20.459ms
+02-04 18:15:08.859 15479 26415 E msgr.msys: E[N mccw.liger]onReadError(732)=>read/error - ex: AsyncSocketException: recv() failed (peer=**************:5222), type = Internal error, errno = 103 (Software caused connection abort), errno: 103
+02-04 18:15:08.861 15479 26387 E msgr.msys: E[N WA]WCCXMPPStreamDisconnectImmediately(836)=>[WARNING] xmpp/disconnect/immediate in state=2 reason=xmpp/idle/timeout
+02-04 18:15:08.882 15479 26387 E msgr.msys: E[N WA]_WCCXMPPStreamDisconnectHandler(335)=>xmpp/disconnect - WCIStreamStateErrorCode: 1, domain: WCIStreamState, subdomain: happyeyeballs: Error Domain=WCIStreamState Code=1 UserInfo=0x16f3da8500 {MCFErrorDirectUnderlyingErrorKey=0xb4000079e03d1d90 "Error Domain=happyeyeballs Code=1"}
+02-04 18:15:08.882 15479 26392 E msgr.msys: E[N MQTT]readErr(151)=>TCPStreamTransport readErr
+02-04 18:15:08.883 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2168)=>[INFO] connection/xmpp/lifecycle_event/not-connected, [716.2676s]
+02-04 18:15:08.883 15479 26392 E msgr.msys: E[N MQTT]onReadError(657)=>Read Error: AsyncSocketException: recv() failed (peer=**************:443), type = Internal error, errno = 103 (Software caused connection abort)
+02-04 18:15:08.883 15479 26387 E msgr.msys: E[N WA]_WCCXMPPStreamDoDisconnect(1223)=>xmpp/disconnect - flags: 0
+02-04 18:15:08.884 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMEmitStateChange(3167)=>[INFO] connection/new_state/not-connected [connection_id=350161966, wcc_source=1, wcc_reason=0]
+02-04 18:15:08.889 15479 26387 E msgr.msys: E[C MEMConnectionManager]_MEMConnectionManagerStateChangeHandler(584)=>[Critical] MEMConnectionState updated to ID: 0 with connectionId: 350161966
+02-04 18:15:08.925 15479 26387 E msgr.msys: E[C MEMConnectionManager]__DisconnectIfNeededOnNetworkContextAsyncImpl(1268)=>[Critical] Call WCCConnectionDisconnect with event id: 3
+02-04 18:15:08.953 15479 26405 E msgr.msys: E[C mem.context]_DozeModeChangedCallback(8145)=>[INFO] Android DozeModeChanged/0
+02-04 18:15:08.969 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMEmitStateChange(3167)=>[INFO] connection/new_state/connecting [connection_id=350161967, wcc_source=1, wcc_reason=0]
+02-04 18:15:08.969 15479 26387 E msgr.msys: E[C MEMConnectionManager]_MEMConnectionManagerStateChangeHandler(584)=>[Critical] MEMConnectionState updated to ID: 1 with connectionId: 350161967
+02-04 18:15:08.976 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMDoDisconnect(1889)=>[INFO] connection/disconnect/[internalState=1]
+02-04 18:15:08.977 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMEmitStateChange(3167)=>[INFO] connection/new_state/not-connected [connection_id=-1, wcc_source=0, wcc_reason=0]
+02-04 18:15:08.978 15479 26387 E msgr.msys: E[C MEMConnectionManager]_MEMConnectionManagerStateChangeHandler(584)=>[Critical] MEMConnectionState updated to ID: 0 with connectionId: -1
+02-04 18:15:08.985 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMDoConnectWithAuthKeys(1443)=>connection/conn_params_completion/pending conn ids don't match -1 - 350161967
+02-04 18:15:09.016 15479 26405 E msgr.msys: E[C mem.context]_LogNetworkStateUpdate(7669)=>[Critical] network_state/prev/1/new/1/source/0
+02-04 18:15:09.018 15479 26405 E msgr.msys: E[C MEMConnectionManager]_NetworkConnectedConnectionEventHandler(1430)=>[Debug] Start _NetworkConnectedConnectionEventHandler.
+02-04 18:15:09.022 15479 26405 E msgr.msys: E[C MEMConnectionManager]_NetworkConnectedConnectionEventHandler(1440)=>[Debug] End _NetworkConnectedConnectionEventHandler.
+02-04 18:15:09.023 15479 26387 E msgr.msys: E[C MEMConnectionManager]__ConnectIfNeededOnNetworkContextAsyncImpl(1188)=>[Critical] Call WCCConnectionConnect with event id: 4
+02-04 18:15:09.024 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMEmitStateChange(3167)=>[INFO] connection/new_state/connecting [connection_id=350161968, wcc_source=0, wcc_reason=0]
+02-04 18:15:09.024 15479 26387 E msgr.msys: E[C MEMConnectionManager]_MEMConnectionManagerStateChangeHandler(584)=>[Critical] MEMConnectionState updated to ID: 1 with connectionId: 350161968
+02-04 18:15:09.034 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMDoConnectWithAuthKeys(1552)=>[INFO] connection/connect/start/[host=chat-e2ee.facebook.com port=5222]/[**************:5222]/socketAddressCount=1
+02-04 18:15:09.036 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2160)=>[INFO] connection/xmpp/lifecycle_event/will-connect
+02-04 18:15:09.037 15479 26387 E msgr.msys: E[A WA]WCCHandshakeCreate(178)=>handshake/create, pq mode:0
+02-04 18:15:09.064 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2168)=>[INFO] connection/xmpp/lifecycle_event/did-connect, [0.0269s]
+02-04 18:15:09.071 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2168)=>[INFO] connection/xmpp/lifecycle_event/did-send-initial-payload, [0.0062s]
+02-04 18:15:09.114 15479 26403 E msgr.msys: E[D db_vacuum_logging]MCISQLiteLogDatabaseErrorWithFormat(70)=>Failed to get database connection or file url.: (0)(0) not an error
+02-04 18:15:09.275 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2168)=>[INFO] connection/xmpp/lifecycle_event/will-handshake, [0.2027s]
+02-04 18:15:09.280 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMLifecycleEventHandler(2168)=>[INFO] connection/xmpp/lifecycle_event/did-handshake, [0.0044s]
+02-04 18:15:09.282 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMReceiveHandler(2340)=>[INFO] connection/receive/login-success
+02-04 18:15:09.283 15479 26387 E msgr.msys: E[N WCCConnectionMEM]_WCCConnectionMEMEmitStateChange(3167)=>[INFO] connection/new_state/connected [connection_id=350161968, wcc_source=0, wcc_reason=0]
+02-04 18:15:09.284 15479 26387 E msgr.msys: E[C MEMConnectionManager]_MEMConnectionManagerStateChangeHandler(584)=>[Critical] MEMConnectionState updated to ID: 2 with connectionId: 350161968
+02-04 18:15:09.289 15479 26386 E msgr.ZeroChatDHostController: Trying to add the same listener twice. This must be a bug.
+02-04 18:15:09.290 15479 26405 E msgr.msys: E[C mem.context]_ZeroRatingStateChangedOnExecutionContext(8395)=>[INFO] ZeroRatingStateChange: notify wa-msys with [host: chat-e2ee.facebook.com, ipv4 fallback IPs are not set, ipv6 fallback IPs are not set]
+02-04 18:15:09.501 15479 26386 W msgr.AdvancedCryptoTransportNotificationServiceLauncher: Ignore service stop. Service not started.
+02-04 18:15:11.195 24922 24922 E unknown:ReactNative: Got DOWN touch before receiving UP or CANCEL from last gesture
+02-04 18:15:11.199 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.199 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.200 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.200 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.246 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.246 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.263 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.263 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.279 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.279 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.296 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.296 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.313 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.313 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.329 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.329 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.334 24922 24922 I ScrollIdentify: on fling
+02-04 18:15:11.345 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.345 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.346 24922 31887 E ReactNativeJS: Invariant Violation: Failed to call into JavaScript module method RCTEventEmitter.receiveTouches(). Module has not been registered as callable. Bridgeless Mode: false. Registered callable JavaScript modules (n = 10): Systrace, JSTimers, HeapCapture, SamplingProfiler, RCTLog, RCTDeviceEventEmitter, RCTNativeAppEventEmitter, GlobalPerformanceLogger, HMRClient, AppRegistry.
+02-04 18:15:11.346 24922 31887 E ReactNativeJS:           A frequent cause of the error is that the application entry file path is incorrect. This can also happen when the JS bundle is corrupt or there is an early initialization error when loading React Native., js engine: hermes
+02-04 18:15:11.816 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:11.816 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:11.823 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:11.823 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:11.828 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:11.828 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:12.516 24922 31887 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:15:12.517 24922 31887 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'WebSocketModule' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing","DeviceInfo","HeadlessJsTaskSupport","UIManager","DeviceEventManager","SourceCode"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState","RedBox","BugReporting","Appearance","DevLoadingView","BlobModule","WebSocketModule"]}, js engine: hermes
+02-04 18:15:12.518 24922 31887 E ReactNativeJS: TypeError: Cannot read property 'prototype' of undefined, js engine: hermes
+02-04 18:15:12.543 24922 30905 I BLASTBufferQueue: QoSAllocBuff Successful. Ret 0 
+02-04 18:15:13.114 14045 14045 I SndPersonalSafety: (REDACTED) Peak of %f at %d, running m%d
+02-04 18:15:13.606 24922 24922 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@ee00fb9
+02-04 18:15:13.674 24922 30905 I BLASTBufferQueue: QoSAllocBuff Successful. Ret 0 
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: Access denied. Process 10353(com.facebook.orca) cannot receive broadcasts from -1(null)the event is: WakingExecutorService.ACTION_ALARM.com.facebook.orca.Mqtt_Wakeup
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: java.lang.SecurityException: Access denied. Process 10353(com.facebook.orca) cannot receive broadcasts from -1(null)the event is: WakingExecutorService.ACTION_ALARM.com.facebook.orca.Mqtt_Wakeup
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at X.001.A0b(:2)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at X.0wW.A0C(:92)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at X.0tw.onReceive(:82)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at X.0tx.onReceive(:50)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0(LoadedApk.java:1902)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.app.LoadedApk$ReceiverDispatcher$Args.$r8$lambda$mcNAAl1SQ4MyJPyDg8TJ2x2h0Rk(Unknown Source:0)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.app.LoadedApk$ReceiverDispatcher$Args$$ExternalSyntheticLambda0.run(D8$$SyntheticClass:0)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.os.Handler.handleCallback(Handler.java:1014)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.os.Looper.loopOnce(Looper.java:250)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.os.Looper.loop(Looper.java:340)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at android.os.HandlerThread.run(HandlerThread.java:107)
+02-04 18:15:13.920 15479 26374 E FamilyIntentScope: 	at X.19o.run(Unknown Source:0)
+02-04 18:15:17.124 24922 24922 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@d3e33c5
+02-04 18:15:17.151 24922 24922 W unknown:ReactNative: Packager connection already open, nooping.
+02-04 18:15:17.154 24922 31887 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:15:17.155 24922 31887 E ReactNativeJS: TypeError: Cannot read property 'unmountComponentAtNodeAndRemoveContainer' of undefined, js engine: hermes
+02-04 18:15:17.172 24922 24922 W unknown:ReactNative: Packager connection already open, nooping.
+02-04 18:15:17.173 24922 32099 W unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.traceupdateoverlay.TraceUpdateOverlayManager
+02-04 18:15:17.178 24922 32099 W unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+02-04 18:15:17.638 24922 32098 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:15:17.761 24922 32098 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'WebSocketModule' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing","DeviceInfo","HeadlessJsTaskSupport","UIManager","DeviceEventManager","SourceCode"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState","RedBox","BugReporting","Appearance","DevLoadingView","BlobModule","WebSocketModule"]}, js engine: hermes
+02-04 18:15:17.762 24922 32098 E ReactNativeJS: TypeError: Cannot read property 'prototype' of undefined, js engine: hermes
+02-04 18:15:17.763 24922 32098 I ReactNativeJS: Running "ESTRABELA_APPDEV" with {"rootTag":111}
+02-04 18:15:17.847 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:17.848 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:17.861 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:17.861 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:17.867 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:17.867 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:17.905 24922 32098 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:15:17.906 24922 32098 E ReactNativeJS: TypeError: Cannot read property 'render' of undefined, js engine: hermes
+02-04 18:15:19.386 25485 25506 I native  : I0000 00:00:1770200119.385903   25506 soda_async_impl.cc:1411] Current audio timestamp: 1770200119324667
+02-04 18:15:19.526 25485 25512 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:15:23.414 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:23.414 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:23.419 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:23.419 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:23.424 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:23.424 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:24.447 31137 23347 I .android.gms.ui: Explicit concurrent copying GC freed 128KB AllocSpace bytes, 0(0B) LOS objects, 24% free, 9526KB/12MB, paused 215us,79us total 286.088ms
+02-04 18:15:26.468 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:26.468 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:26.475 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:26.475 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:26.480 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:26.480 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:32.552 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:32.552 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:32.563 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:32.563 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:32.567 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:32.568 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:35.577 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:35.577 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:35.582 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:35.582 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:35.587 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:35.587 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:37.907 25485 25506 I native  : I0000 00:00:1770200137.907031   25506 soda_impl.cc:1921] Adding hotword timeout event
+02-04 18:15:37.909 25485 25519 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:15:37.909 25485 25519 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:15:37.910 25485 25519 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:15:38.621 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:38.621 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:38.628 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:38.629 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:38.634 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:38.634 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:41.649 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:41.649 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:41.664 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:41.664 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:41.669 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:41.669 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:44.686 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:44.686 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:44.690 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:44.691 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:44.695 14045 23008 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:44.695 14045 23008 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:45.137 16067 16264 I id.gms.unstable: Explicit concurrent copying GC freed 435KB AllocSpace bytes, 0(0B) LOS objects, 36% free, 3539KB/5587KB, paused 174us,133us total 83.885ms
+02-04 18:15:47.786 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:47.786 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:47.791 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:47.791 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:47.796 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:47.796 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:49.383 25485 25506 I native  : I0000 00:00:1770200149.383857   25506 soda_async_impl.cc:1411] Current audio timestamp: 1770200149324667
+02-04 18:15:49.543 25485 25512 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:15:50.668 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.670 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.671 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.672 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.672 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.673 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.677 13229 16348 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=3253bdd7-dfe6-4f48-89c3-329a73f5b76e, tags={ com.ushareit.ccm.CommandWorker, Cmd } ]
+02-04 18:15:50.677 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.677 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.677 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.678 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.678 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.678 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.678 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.679 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.679 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.679 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.681 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.682 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.682 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.682 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.684 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.684 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.691 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.691 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.691 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.694 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.694 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.695 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.696 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#query
+02-04 18:15:50.696 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.696 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#beginTransaction
+02-04 18:15:50.697 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.697 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.697 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#endTransaction
+02-04 18:15:50.698 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#query
+02-04 18:15:50.698 13229 16348 E CrashFixLancet: androidx.room.RoomDatabase#assertNotSuspendingTransaction
+02-04 18:15:50.749 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:50.749 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:50.769 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:50.769 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:50.775 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:50.775 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:51.315 13229 13238 I vo.anyshare.gps: Background young concurrent copying GC freed 9055KB AllocSpace bytes, 81(3364KB) LOS objects, 45% free, 17MB/32MB, paused 312us,252us total 219.228ms
+02-04 18:15:51.319 13229 13238 W vo.anyshare.gps: Reducing the number of considered missed Gc histogram windows from 115 to 100
+02-04 18:15:51.654 14045 31973 I CastDatabase: Saving the database
+02-04 18:15:51.675 14045 31973 I SQLiteCastStore: [CastNetworkInfo] saved: 0, skipped: 0, [CastDeviceInfo]: saved 0, skipped 0, [ProbedNetworks]: saved 0, skipped: 0, [ProbedSocketAddress]: saved 0, skipped: 0, [Network-Device pairs]: saved: 0
+02-04 18:15:53.818 14045 14172 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:53.818 14045 14172 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:53.826 14045 14172 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:53.826 14045 14172 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:53.832 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:53.832 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:54.748 13229 13238 I vo.anyshare.gps: Background concurrent copying GC freed 12MB AllocSpace bytes, 163(6808KB) LOS objects, 49% free, 16MB/32MB, paused 187us,127us total 169.645ms
+02-04 18:15:56.866 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:56.866 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:56.872 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:56.872 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:15:56.877 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:15:56.877 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:18.119 14045 14078 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:18.119 14045 14078 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:18.133 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:18.133 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:18.137 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:18.137 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:19.388 25485 25506 I native  : I0000 00:00:1770200179.387751   25506 soda_async_impl.cc:1411] Current audio timestamp: 1770200179324667
+02-04 18:16:19.545 25485 25512 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:16:30.276 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:30.276 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:30.280 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=60000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -75, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -75 UnderlyingNetworks: Null]
+02-04 18:16:30.290 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:30.290 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:30.295 14045 31540 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:30.295 14045 31540 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:33.308 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=30000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -76, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -76 UnderlyingNetworks: Null]
+02-04 18:16:33.310 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:33.310 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:33.324 14045 14172 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:33.324 14045 14172 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:33.329 14045 14172 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:33.329 14045 14172 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:47.904 20536 20825 D WM-DelayedWorkTracker: Scheduling work c08ac67f-3043-4c4a-be4b-b7cfa6d5d226
+02-04 18:16:47.904 20536 20825 D WM-GreedyScheduler: Starting tracking for c08ac67f-3043-4c4a-be4b-b7cfa6d5d226
+02-04 18:16:47.911 20536 20568 D WM-GreedyScheduler: Constraints not met: Cancelling work ID WorkGenerationalId(workSpecId=c08ac67f-3043-4c4a-be4b-b7cfa6d5d226, generation=4671)
+02-04 18:16:49.387 25485 25506 I native  : I0000 00:00:1770200209.387038   25506 soda_async_impl.cc:1411] Current audio timestamp: 1770200209324667
+02-04 18:16:49.546 25485 25512 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-04 18:16:50.900 14045 14172 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:50.900 14045 14172 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:50.916 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:50.916 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:16:50.917 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=30000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -78, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -78 UnderlyingNetworks: Null]
+02-04 18:16:50.921 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:16:50.921 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:17:02.923 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:17:02.923 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:17:02.934 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:17:02.935 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-04 18:17:02.939 20536 20909 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED&NOT_BANDWIDTH_CONSTRAINED LinkUpBandwidth>=12000Kbps LinkDnBandwidth>=30000Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: 02:**:**:**:00:00, MAC: 02:**:**:**:00:00, Security type: 2, Supplicant state: COMPLETED, Wi-Fi standard: 11ac, RSSI: -78, Link speed: 433Mbps, Tx Link speed: 175Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: 117Mbps, Max Supported Rx Link speed: 433Mbps, Frequency: 5220MHz, Net ID: -1, Metered hint: false, score: 60, isUsable: true, CarrierMerged: false, SubscriptionId: -1, IsPrimary: -1, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>, Vendor Data: <none>> SignalStrength: -78 UnderlyingNetworks: Null]
+02-04 18:17:02.940 14045 17242 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-04 18:17:02.940 14045 17242 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1

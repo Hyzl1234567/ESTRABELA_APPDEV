@@ -1,0 +1,243 @@
+--------- beginning of main
+02-04 18:17:25.386 13743 24818 I NearbyPresence: (REDACTED) %s verified [==] new request %s equals to the old request
+02-04 18:17:25.403 14045 28838 I NearbyPresence: (REDACTED) %s verified [==] new request %s equals to the old request
+02-04 18:17:30.135  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:30.135  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:30.135  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:30.136  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:30.962 14045 14045 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.libs.gmscorelogger.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+02-04 18:17:33.352  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:33.352  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:33.353  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:33.354  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:36.943  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:36.943  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:36.944  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:36.944  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:40.438  1776  2914 V BatteryStatsService: In wakeup_callback: resumed from suspend
+02-04 18:17:40.439  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:40.439  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:40.440  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:41.138  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:41.138  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:41.138  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:41.139  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:41.885  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:41.885  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:41.885  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:41.886  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:43.453  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:43.453  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:43.453  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:43.454  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:44.628  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:44.629  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:44.629  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:44.630  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:46.269  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:46.269  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:46.269  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:46.270  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:50.405  1776  2914 V BatteryStatsService: In wakeup_callback: resumed from suspend
+02-04 18:17:50.405  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:50.406  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:50.407  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:50.713  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:50.713  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:50.713  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:50.713  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:51.447  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:51.447  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:51.447  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:51.448  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:52.455  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:52.455  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:52.455  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:52.456  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:53.619  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:53.619  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:53.619  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:53.620  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:54.053 32428 32428 E cmd     : BBinder_init Processname  cmd  
+02-04 18:17:54.054 32428 32428 E cmd     : BBinder_init hasGetProcessName  cmd
+02-04 18:17:55.548  1776  1792 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:55.548  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:55.548  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:55.549  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:17:58.631  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:17:58.631  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:17:58.631  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:17:58.633  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:02.411  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:02.411  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:02.411  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:02.412  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:02.454 32451 32451 E cmd     : BBinder_init Processname  cmd  
+02-04 18:18:02.454 32451 32451 E cmd     : BBinder_init hasGetProcessName  cmd
+02-04 18:18:02.580 27130 27130 I strabela_appdev: Late-enabling -Xcheck:jni
+02-04 18:18:02.633 27130 27130 I strabela_appdev: Using CollectorTypeCC GC.
+02-04 18:18:02.653 27130 27130 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+02-04 18:18:02.739 27130 27130 E strabela_appdev: BBinder_init Processname  <pre-initialized>  
+02-04 18:18:02.782 27130 27130 D CompatChangeReporter: Compat change id reported: 242716250; UID 10381; state: ENABLED
+02-04 18:18:02.813 27130 27130 D nativeloader: Configuring clns-7 for other apk /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64:/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.estrabela_appdev
+02-04 18:18:02.846 27130 27130 V GraphicsEnvironment: Currently set values for:
+02-04 18:18:02.846 27130 27130 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[com.android.angle, com.linecorp.b612.android, com.campmobile.snow, com.google.android.apps.tachyon]
+02-04 18:18:02.846 27130 27130 V GraphicsEnvironment:   angle_gl_driver_selection_values=[angle, native, native, native]
+02-04 18:18:02.846 27130 27130 V GraphicsEnvironment: com.estrabela_appdev is not listed in per-application setting
+02-04 18:18:02.846 27130 27130 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+02-04 18:18:02.869 27130 27130 E strabela_appdev: BBinder_init Processname  com.estrabela_appdev  
+02-04 18:18:02.869 27130 27130 E strabela_appdev: BBinder_init hasGetProcessName  com.estrabela_appdev
+02-04 18:18:02.914 27130 32479 E HWUI    : Device claims wide gamut support, cannot find matching config, error = EGL_SUCCESS
+02-04 18:18:02.914 27130 32479 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+02-04 18:18:02.918 27130 27130 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+02-04 18:18:02.975 27130 27130 W unknown:ReactInstanceManagerBuilder: You're not setting the JS Engine Resolution Algorithm. We'll try to load JSC first, and if it fails we'll fallback to Hermes
+02-04 18:18:02.976 27130 27130 V SoLoader: Init System Loader delegate
+02-04 18:18:03.013 27130 27130 D nativeloader: Load libjscexecutor.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): dlopen failed: library "libjscexecutor.so" not found
+02-04 18:18:03.021 27130 27130 D nativeloader: Load /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64/libhermes.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): ok
+02-04 18:18:03.033 27130 27130 D nativeloader: Load /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64/libhermes_executor.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): ok
+02-04 18:18:03.143 27130 27130 I strabela_appdev: hiddenapi: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=34) using reflection: allowed
+02-04 18:18:03.143 27130 27130 I strabela_appdev: hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=34) using reflection: allowed
+02-04 18:18:03.176 27130 27130 D nativeloader: Load libpowerhalwrap_jni.so using system ns (caller=/system_ext/framework/mediatek-framework.jar): ok
+02-04 18:18:03.177 27130 27130 I PowerHalWrapper: PowerHalWrapper.getInstance 
+02-04 18:18:03.177 27130 27130 I M-ProMotion: M-ProMotion is disabled
+02-04 18:18:03.179 27130 32511 I PowerHalWrapper: PowerHalWrapper.getInstance 
+02-04 18:18:03.197 27130 27130 W libc    : Access denied finding property "persist.vivo.ltw.enabled"
+02-04 18:18:03.209 27130 27130 W HWUI    : Unknown dataspace 0
+02-04 18:18:03.243 27130 27130 W unknown:ReactNative: Packager connection already open, nooping.
+02-04 18:18:03.269 27130 27130 D ViewRootImpl: AppSizeAfterRelayout, size: Point(720, 1608), rotation: ROTATION_0
+02-04 18:18:03.270 27130 27130 D BufferQueueConsumer: [](id:69fa00000000,api:0,p:-1,c:27130) connect: controlledByApp=false
+02-04 18:18:03.272 27130 27130 D BLASTBufferQueue: [VRI[MainActivity]#0](f:0,a:0) constructor()
+02-04 18:18:03.272 27130 27130 D BLASTBufferQueue: [VRI[MainActivity]#0](f:0,a:0) update width=720 height=1608 format=-1 mTransformHint=0
+02-04 18:18:03.281 27130 32479 I BLASTBufferQueue: QoSAllocBuff Successful. Ret 0 
+02-04 18:18:03.294 27130 32479 D MAGT_SYNC_FRAME: MAGT Sync: MAGT is not supported. Disabling Sync.
+02-04 18:18:03.320 27130 32479 I GrallocExtra: gralloc_extra_query:is_SW3D 0
+02-04 18:18:03.322 27130 32479 D BLASTBufferQueue: [VRI[MainActivity]#0](f:0,a:1) acquireNextBufferLocked size=720x1608 mFrameNumber=1 applyTransaction=true mTimestamp=**************4(auto) mPendingTransactions.size=0 graphicBufferId=116522462740480 transform=0
+02-04 18:18:03.332 27130 32479 I GED     : ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 31, oppidx_max 31, oppidx_min 0
+02-04 18:18:03.348  1776  1801 I ActivityTaskManager: Displayed com.estrabela_appdev/.MainActivity for user 0: +877ms
+02-04 18:18:03.366 27130 32479 I GED     : ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 31, oppidx_max 31, oppidx_min 0
+02-04 18:18:03.397 27130 32479 D BLASTBufferQueue: [VRI[MainActivity]#0](f:0,a:1) destructor()
+02-04 18:18:03.398 27130 32479 D BufferQueueConsumer: [VRI[MainActivity]#0(BLAST Consumer)0](id:69fa00000000,api:0,p:-1,c:27130) disconnect
+02-04 18:18:03.399 27130 32479 I GED     : ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 31, oppidx_max 31, oppidx_min 0
+02-04 18:18:03.411 27130 27130 D ViewRootImpl: AppSizeAfterRelayout, size: Point(720, 1608), rotation: ROTATION_0
+02-04 18:18:03.694 14045 31540 I FontLog : (REDACTED) Received query %s, URI %s
+02-04 18:18:03.694 14045 31540 I FontLog : (REDACTED) Query [%s] resolved to %s
+02-04 18:18:03.706 14045 31540 I FontLog : (REDACTED) Fetch %s end status %s
+02-04 18:18:03.720 14045 31540 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+02-04 18:18:03.733 14045 31540 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+02-04 18:18:04.214 27130 27130 D ViewRootImpl: AppSizeAfterRelayout, size: Point(720, 1540), rotation: ROTATION_0
+02-04 18:18:05.027 27130 32512 D nativeloader: Load /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64/libreactnativejni.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): ok
+02-04 18:18:05.034 27130 32512 D nativeloader: Load /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64/libfbjni.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): ok
+02-04 18:18:05.725 27130 32465 I strabela_appdev: Compiler allocated 7999KB to compile void android.view.ViewRootImpl.performTraversals()
+02-04 18:18:06.661 27130 32465 I strabela_appdev: Compiler allocated 4256KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+02-04 18:18:10.539 27130 27130 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@c6db3f5
+02-04 18:18:10.543 27130 32479 I GED     : ged_boost_gpu_freq, level 100, eOrigin 2, final_idx 31, oppidx_max 31, oppidx_min 0
+02-04 18:18:10.597 27130 32554 W unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.traceupdateoverlay.TraceUpdateOverlayManager
+02-04 18:18:10.625 27130 32554 W unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+02-04 18:18:10.646 27130 32554 D nativeloader: Load /data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/lib/arm64/libyoga.so using class loader ns clns-7 (caller=/data/app/~~ETc32iyYL6i20jX5Twzpog==/com.estrabela_appdev-1nupNG1ZxGJ5u35eQFApLQ==/base.apk): ok
+02-04 18:18:11.292  1776  2470 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:11.293  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:11.293  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:11.294  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:11.661 27130 32553 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:18:11.872 27130 32553 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'WebSocketModule' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing","DeviceInfo","HeadlessJsTaskSupport","UIManager","DeviceEventManager","SourceCode"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState","RedBox","BugReporting","Appearance","DevLoadingView","BlobModule","WebSocketModule"]}, js engine: hermes
+02-04 18:18:11.874 27130 32553 E ReactNativeJS: TypeError: Cannot read property 'prototype' of undefined, js engine: hermes
+02-04 18:18:11.877 27130 32553 I ReactNativeJS: Running "ESTRABELA_APPDEV" with {"rootTag":11}
+02-04 18:18:12.122 27130 32553 E ReactNativeJS: Invariant Violation: TurboModuleRegistry.getEnforcing(...): 'AppState' could not be found. Verify that a module by this name is registered in the native binary.Bridgeless mode: false. TurboModule interop: false. Modules loaded: {"NativeModules":["PlatformConstants","LogBox","Timing"],"TurboModules":[],"NotFound":["NativePerformanceCxx","NativePerformanceObserverCxx","AppState"]}, js engine: hermes
+02-04 18:18:12.124 27130 32553 E ReactNativeJS: TypeError: Cannot read property 'render' of undefined, js engine: hermes
+02-04 18:18:15.318  1776  2470 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:15.318  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:15.318  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:15.325  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:18.369  1776  2881 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:18.369  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:18.369  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:18.370  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:20.559 16600  6534 I IPCThreadState: oneway function results for code 2 on binder at 0xb400007850051b80 will be dropped but finished with status UNKNOWN_TRANSACTION
+02-04 18:18:21.304 20361 20372 W chbox:googleapp: Reducing the number of considered missed Gc histogram windows from 214 to 100
+02-04 18:18:21.345 20361 20974 V ClearcutMetricXmitter: Transmission is done.
+02-04 18:18:21.775  1776  2470 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:21.776  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:21.776  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:21.777  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:25.170  1776  2470 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:25.170  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:25.170  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:25.171  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:28.287  1776  1792 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:28.288  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:28.288  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:28.289  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:31.606  1776  1792 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:31.606  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:31.606  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:31.607  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:31.743 20361 20502 E eiug    : (REDACTED) Trace %s timed out after %d ms. Complete trace: %s
+02-04 18:18:31.743 20361 20502 E eiug    : eivo: 
+02-04 18:18:31.743 20361 20502 E eiug    : 	at tk_trace.SearchFragmentPeer#onStop(Started After:0)
+02-04 18:18:31.743 20361 20502 E eiug    : 	at tk_trace.onStop GoogleAppActivity(Started After:0)
+02-04 18:18:31.743 20361 20502 E eiug    : 	at tk_trace.GoogleAppActivity: Lifecycle.Stopped(Started After:0)
+02-04 18:18:31.936 25751 25762 W e.gcash.android: Suspending all threads took: 22.677ms
+02-04 18:18:32.090 32600 32600 E cmd     : BBinder_init Processname  cmd  
+02-04 18:18:32.091 32600 32600 E cmd     : BBinder_init hasGetProcessName  cmd
+02-04 18:18:32.395 25751 25994 D CompatChangeReporter: Compat change id reported: 311402873; UID 10265; state: ENABLED
+02-04 18:18:32.395 25751 25994 D CompatChangeReporter: Compat change id reported: 323349338; UID 10265; state: ENABLED
+02-04 18:18:32.395 25751 25994 W JobInfo : Job 'com.globe.gcash.android/androidx.core.app.LogServiceInToolsProcess#1943' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+02-04 18:18:32.477 25751 26135 I AdvertisingIdClient: shouldSendLog 334876158
+02-04 18:18:32.478 25751 26135 I AdvertisingIdClient: GetInfoInternal elapse 467ms
+02-04 18:18:32.478 25751 26135 I GoogleTagManager: Obtained fresh AdvertisingId info from GmsCore.
+02-04 18:18:32.524 13895 13895 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+02-04 18:18:32.524 13895 13895 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+02-04 18:18:32.596 13895 32612 D AdvertisingIdClient: AdvertisingIdClient already created.
+02-04 18:18:32.596 13895 32612 D AdvertisingIdClient: AdvertisingIdClient is not bounded. Starting to bind it...
+02-04 18:18:32.604 13895 32612 D AdvertisingIdClient: AdvertisingIdClient is bounded
+02-04 18:18:32.606 13895 32612 I AdvertisingIdClient: shouldSendLog 334875638
+02-04 18:18:32.606 13895 32612 I AdvertisingIdClient: GetInfoInternal elapse 10ms
+02-04 18:18:32.636 14045 14045 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+02-04 18:18:32.642 14045 14045 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+02-04 18:18:32.667 14045 32614 I NetworkScheduler: (REDACTED) Error inserting %s
+02-04 18:18:35.281  1776  1792 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:35.281  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:35.281  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:35.283  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:38.441  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:38.441  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:38.441  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:38.442  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:42.181  1776  2914 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:42.181  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:42.181  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:42.182  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:45.595  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:45.596  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:45.596  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:45.597  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:47.738 14045 14045 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+02-04 18:18:47.740 14045 14045 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+02-04 18:18:49.546  1776  3095 V BatteryStatsService: In wakeup_callback: resumed from suspend
+02-04 18:18:49.546  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:49.546  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:49.547  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:50.219  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:50.220  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:50.220  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:50.221  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:51.609  1776  3095 V BatteryStatsService: In wakeup_callback: resumed from suspend
+02-04 18:18:51.609  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:51.610  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:51.611  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:52.755  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:52.755  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:52.755  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:52.756  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:53.073  1776  3095 V BatteryStatsService: In wakeup_callback: suspend aborted
+02-04 18:18:53.073  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:53.073  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:53.074  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:18:54.237  1776  3095 V BatteryStatsService: In wakeup_callback: resumed from suspend
+02-04 18:18:54.238  1776  1883 V BatteryStatsService: Reading wakeup reasons
+02-04 18:18:54.238  1776  1883 V BatteryStatsService: Got 1 reasons
+02-04 18:18:54.239  1776  1883 V BatteryStatsService: Waiting for wakeup...
+02-04 18:19:00.258 12825 12847 I Finsky  : [7183] Stats for Executor: BlockingExecutor uup@7d00e51[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 193]
+02-04 18:19:00.259 12825 12847 I Finsky  : [7183] Stats for Executor: LightweightExecutor uup@52ec324[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 468]
+02-04 18:19:00.259 12825 12847 I Finsky  : [7183] Stats for Executor: bgExecutor uup@8ae70fa[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 993]
+02-04 18:19:00.373 12825 12847 I Finsky  : [7183] Stats for Executor: GrpcBackgroundExecutor uup@cb8dcdb[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 3]

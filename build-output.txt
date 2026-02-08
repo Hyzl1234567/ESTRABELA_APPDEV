@@ -1,0 +1,5 @@
+(node:7620) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+info A dev server is already running for this project on port 8081.
+info Installing the app...
+Starting a Gradle Daemon, 2 stopped Daemons could not be reused, use --status for details
